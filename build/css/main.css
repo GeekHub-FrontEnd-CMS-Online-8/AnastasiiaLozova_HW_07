@@ -1,0 +1,114 @@
+html, body {
+  margin: 0;
+  padding: 0;
+    padding-min-height: 100%;
+    padding-height: 100%;
+    padding-font-family: Montserrat; }
+
+.container {
+  width: 1170px;
+  margin: 0 auto; }
+
+img {
+  width: 151px; }
+
+.navbar {
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 15px; }
+
+a {
+  color: #8d81ac; }
+
+button {
+  background-color: #8d81ac;
+  border-radius: 35px;
+  color: white;
+  padding: 11px 35px; }
+
+.hero {
+  background: url("../img/bg1.png") no-repeat;
+  background-size: 100%;
+  padding-top: 31px;
+  box-sizing: border-box;
+  width: 100%;
+  height: 800px;
+  text-align: center; }
+
+.for_mac {
+  color: #848e97;
+    color-font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20.45px;
+  text-transform: uppercase; }
+
+h1 {
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 82px;
+  font-weight: 700;
+  padding-top: 108px; }
+
+h2 {
+  color: #8d81ac;
+  font-family: Lato;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 20.45px;
+  padding-bottom: 18px; }
+
+.revolutionary {
+  margin-top: -31px;
+  text-align: center;
+  padding-bottom: 70px;
+  color: #848e97;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 15px; }
+
+h3 {
+  font-family: Montserrat;
+  font-size: 54px;
+  font-weight: 700;
+  line-height: 20.45px;
+  text-transform: uppercase;
+  padding-top: 66px;
+  padding-bottom: 30px;
+  color: #635c73; }
+
+.aenean {
+  color: #323232;
+  font-family: Source Sans Pro;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 32px; }
+
+.features {
+  height: 761px;
+  background-color: #f4f4f4;
+  padding-top: 70px; }
+
+.icons {
+  color: #848e97;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400; }
+  .icons img {
+    height: 64px;
+    float: left; }
+  .icons h4 {
+    color: #323232;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    display: block; }
+
+.editor {
+  color: #8d81ac;
+  font-family: Montserrat;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 20.45px; }
